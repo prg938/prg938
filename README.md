@@ -1,2 +1,2 @@
 
-Relax and play my mariogame: https://prg938.github.io/mariogame
+Relax and play my mario: https://prg938.github.io/mariogame
