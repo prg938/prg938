@@ -1,2 +1,2 @@
 
-my projects: [prg938.github.io](https://prg938.github.io)
+[prg938.github.io](https://prg938.github.io)
